@@ -33,7 +33,8 @@
     "version": 112
   },
   "pages": [
-    "1440"
+    "1440",
+    "1260"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
